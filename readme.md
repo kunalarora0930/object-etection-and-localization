@@ -2,6 +2,8 @@
 
 This project demonstrates how to train an object detection model using TensorFlow and MobileNetV2 on the Caltech Birds 2010 dataset. The model detects bounding boxes around bird species in images and evaluates its performance using Intersection over Union (IoU).
 
+Kaggle Notebook: https://www.kaggle.com/code/cheesecke/object-detection-and-localization/
+
 ## Table of Contents
 
 1. [Overview](#overview)
